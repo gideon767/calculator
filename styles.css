@@ -56,7 +56,6 @@ form input:hover {
     color: rgb(84, 200, 84);
     font-weight: 700;
 }
-
 @media screen and (max-width:600px) {
     .calculator {
         height: 100vh;
